@@ -10,6 +10,10 @@ var postsData = [
   {
     title: 'The Meteor Book',
     url: 'http://themeteorbook.com'
+  },
+  {
+    title: 'Moweb Jobs',
+    url: 'http://mowebjobs.github.io'
   }
 ];
 Template.postsList.helpers({
