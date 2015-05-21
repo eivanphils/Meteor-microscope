@@ -9,7 +9,7 @@ insecure
 underscore
 twbs:bootstrap
 fezvrasta:bootstrap-material-design
-accounts-google
-accounts-facebook
 iron:router
 sacha:spin
+accounts-password
+ian:accounts-ui-bootstrap-3
