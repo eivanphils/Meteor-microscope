@@ -161,3 +161,6 @@ body {
   margin-bottom: 5px;
   pointer-events: auto;
 }
+.help-block{
+  display: block;
+}
