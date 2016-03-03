@@ -2,7 +2,7 @@
  * Created by phils on 2/03/16.
  */
 Template.commentItem.helpers({
-   submittedText: function(){
+    submittedText: function(){
        return this.submitted.toString();
    }
 });

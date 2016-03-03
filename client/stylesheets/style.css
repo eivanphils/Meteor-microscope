@@ -164,3 +164,6 @@ body {
 .help-block{
   display: block;
 }
+span.help-block.comment {
+  display: block;
+}
