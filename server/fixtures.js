@@ -22,7 +22,8 @@ if (Posts.find().count() === 0) {
     userId: phils._id,
     author: phils.profile.name,
     url: 'http://meteor.com',
-    submitted: new Date( now - 7 * 3600 * 1000)
+    submitted: new Date( now - 7 * 3600 * 1000),
+    commentsCount: 2
   });
 
   Comments.insert({
